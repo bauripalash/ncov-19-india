@@ -1,0 +1,24 @@
+state/ut,confirmed (indian),confirmed (foreign),cured/discharged,death
+Andhra Pradesh,7,0,0,0
+Bihar,2,0,0,1
+Chhattisgarh,1,0,0,0
+Delhi,30,1,6,1
+Gujarat,29,0,0,1
+Haryana,12,14,11,0
+Himachal Pradesh,3,0,0,1
+Karnataka,37,0,2,1
+Kerala,87,8,4,0
+Madhya Pradesh,7,0,0,0
+Maharashtra,84,3,0,2
+Odisha,2,0,0,0
+Puducherry,1,0,0,0
+Punjab,21,0,0,1
+Rajasthan,31,2,3,0
+Tamil Nadu,10,2,1,0
+Telengana,22,10,1,0
+Chandigarh,6,0,0,0
+Jammu and Kashmir,4,0,0,0
+Ladakh,13,0,0,0
+Uttar Pradesh,32,1,9,0
+Uttarakhand,3,0,0,0
+West Bengal,7,0,0,1
